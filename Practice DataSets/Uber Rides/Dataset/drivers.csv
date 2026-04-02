@@ -1,0 +1,11 @@
+driver_id,signup_date,city_id,vehicle_type,rating,is_active
+D1,2025-10-01,C1,hatchback,4.89,False
+D2,2025-10-04,C2,suv,4.36,True
+D3,2025-10-07,C1,hatchback,4.19,True
+D4,2025-10-10,C1,sedan,4.07,True
+D5,2025-10-13,C2,suv,4.66,True
+D6,2025-10-16,C1,sedan,4.77,True
+D7,2025-10-19,C2,hatchback,4.99,True
+D8,2025-10-22,C2,suv,4.86,True
+D9,2025-10-25,C2,hatchback,4.87,True
+D10,2025-10-28,C1,hatchback,4.38,True

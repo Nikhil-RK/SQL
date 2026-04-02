@@ -1,0 +1,21 @@
+prodid,prodCat,prodName,rate
+101,Food,Pizza,400
+102,Food,Burger,250
+103,Food,Pasta,300
+104,Food,Sandwich,150
+105,Electronics,Phone Charger,1200
+106,Electronics,Earbuds,1800
+107,Electronics,Power Bank,1500
+108,Sports,Cricket Bat,2200
+109,Sports,Football,900
+110,Sports,Badminton Racket,1400
+111,Sports,Yoga Mat,800
+112,Self-care,Shampoo,350
+113,Self-care,Face Wash,280
+114,Self-care,Body Lotion,420
+115,Groceries,Milk,60
+116,Groceries,Bread,45
+117,Groceries,Rice,120
+118,Groceries,Cooking Oil,180
+119,Groceries,Eggs,90
+120,Groceries,Sugar,50
