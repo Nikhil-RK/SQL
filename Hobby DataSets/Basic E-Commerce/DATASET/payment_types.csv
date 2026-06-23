@@ -1,0 +1,6 @@
+paytid,paytype
+1,UPI
+2,Credit Card
+3,Debit Card
+4,Net Banking
+5,Wallet
