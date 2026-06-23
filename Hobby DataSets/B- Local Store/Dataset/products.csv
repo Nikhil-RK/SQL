@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,60000
+2,Phone,Electronics,30000
+3,Tablet,Electronics,25000
+4,Monitor,Electronics,15000
+5,Keyboard,Electronics,3000
+6,Chair,Furniture,8000
+7,Table,Furniture,12000
+8,Sofa,Furniture,35000
+9,Desk,Furniture,18000
+10,Bookshelf,Furniture,10000
