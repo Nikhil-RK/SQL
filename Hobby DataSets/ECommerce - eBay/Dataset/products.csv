@@ -1,0 +1,161 @@
+product_id,seller_id,product_name,category,brand,condition,price,stock_quantity,listed_date,shipping_fee,rating,total_reviews
+1,27,Spigen Power Bank,Mobile Accessories,Spigen,Refurbished,2620,15,2025-09-11,199.71,3.6,3035
+2,98,Puma Sneakers,Fashion,Puma,New,3941,192,2023-12-23,280.0,4.1,4408
+3,87,HarperCollins SQL Mastery,Books,HarperCollins,Used,2046,12,2025-03-04,267.38,3.3,3994
+4,55,Microsoft Gaming Mouse,Gaming,Microsoft,Refurbished,24476,109,2023-11-20,264.75,4.4,3900
+5,114,HarperCollins Data Science Guide,Books,HarperCollins,Used,1711,113,2023-07-10,498.45,3.9,2882
+6,106,HarperCollins SQL Mastery,Books,HarperCollins,Used,958,190,2024-08-27,311.21,4.4,4888
+7,14,Yonex Cricket Bat,Sports,Yonex,Refurbished,5452,79,2024-11-23,360.81,2.8,4021
+8,92,Nike Jeans,Fashion,Nike,Used,4421,23,2023-07-07,305.43,4.2,1242
+9,66,Ikea Cookware Set,Home & Kitchen,Ikea,Refurbished,2940,114,2024-11-12,180.47,4.1,4994
+10,93,Adidas Jacket,Fashion,Adidas,Used,5910,181,2024-03-28,313.15,3.2,1896
+11,118,Puma Football,Sports,Puma,New,4324,170,2026-03-31,108.54,3.2,1165
+12,92,Nike Jacket,Fashion,Nike,Used,3019,133,2024-05-28,288.39,3.6,4899
+13,13,Dell Wireless Earbuds,Electronics,Dell,New,84129,125,2026-03-08,278.72,3.6,2278
+14,34,Ikea Cookware Set,Home & Kitchen,Ikea,Used,2494,110,2023-10-13,359.09,3.2,3280
+15,104,Lego Remote Car,Toys,Lego,Used,5687,18,2024-11-06,126.29,3.4,4083
+16,34,Penguin Data Science Guide,Books,Penguin,Used,318,146,2025-09-22,46.29,3.5,1840
+17,105,Levis Sneakers,Fashion,Levis,New,1761,121,2025-01-27,293.58,3.5,4910
+18,107,Mattel Building Blocks,Toys,Mattel,New,2617,119,2025-12-26,287.75,3.4,4521
+19,105,Funskool Remote Car,Toys,Funskool,Refurbished,657,102,2024-01-02,217.6,4.2,1246
+20,93,Penguin Data Science Guide,Books,Penguin,Refurbished,2071,44,2024-05-08,74.42,4.5,2171
+21,118,Lakme Perfume,Beauty,Lakme,New,4621,163,2024-01-14,71.47,4.1,2354
+22,13,Nintendo PS5 Game,Gaming,Nintendo,Used,22266,19,2024-02-06,174.95,3.4,1192
+23,32,Nintendo Gaming Mouse,Gaming,Nintendo,New,7236,123,2025-02-05,333.44,3.6,76
+24,44,HarperCollins Python Basics,Books,HarperCollins,Used,1224,128,2023-06-14,89.06,3.5,2940
+25,64,Boat Charging Cable,Mobile Accessories,Boat,New,4219,160,2024-02-09,408.89,3.0,1557
+26,11,Boat Charging Cable,Mobile Accessories,Boat,Refurbished,3761,98,2024-10-04,376.89,2.7,2417
+27,58,Lakme Face Serum,Beauty,Lakme,Used,4598,80,2025-02-04,383.42,3.3,943
+28,5,Penguin Data Science Guide,Books,Penguin,Used,569,142,2026-03-12,96.85,3.4,2147
+29,16,Boat Charging Cable,Mobile Accessories,Boat,Refurbished,1963,123,2024-05-26,458.32,3.3,3344
+30,83,Adidas Sneakers,Fashion,Adidas,Refurbished,2993,195,2024-06-24,360.38,3.9,4811
+31,55,Philips Vacuum Cleaner,Home & Kitchen,Philips,Used,11086,30,2024-01-09,491.23,3.4,2938
+32,56,Dell Wireless Earbuds,Electronics,Dell,New,29878,149,2026-04-30,134.39,4.6,4540
+33,58,Nintendo PS5 Game,Gaming,Nintendo,New,6335,33,2023-10-21,344.09,2.6,121
+34,105,Loreal Perfume,Beauty,Loreal,Used,1288,97,2024-12-21,276.09,2.8,4127
+35,97,Nintendo PS5 Game,Gaming,Nintendo,Refurbished,11383,32,2023-07-06,265.52,4.8,602
+36,65,Puma Jacket,Fashion,Puma,Used,1533,134,2025-05-07,318.5,2.7,937
+37,68,Mattel Building Blocks,Toys,Mattel,Used,6276,85,2024-04-16,345.95,3.4,1250
+38,120,Penguin Data Science Guide,Books,Penguin,Refurbished,2478,89,2024-03-12,348.21,3.5,3464
+39,77,Apple Wireless Earbuds,Electronics,Apple,Refurbished,51090,99,2025-04-21,92.85,3.2,1852
+40,73,Michelin Helmet,Automotive,Michelin,Used,1448,6,2024-10-31,123.45,2.9,3283
+41,71,Adidas Sneakers,Fashion,Adidas,Refurbished,4845,157,2024-08-23,79.08,2.6,1289
+42,112,Spigen Charging Cable,Mobile Accessories,Spigen,New,1915,93,2024-04-24,237.76,3.2,4858
+43,31,Pearson Python Basics,Books,Pearson,Used,1037,79,2024-04-17,190.94,2.5,3527
+44,98,Prestige Cookware Set,Home & Kitchen,Prestige,New,9196,122,2023-06-12,463.73,4.7,4716
+45,81,Michelin Engine Oil,Automotive,Michelin,New,1183,116,2026-02-25,428.46,3.1,4824
+46,114,Michelin Car Vacuum,Automotive,Michelin,Refurbished,6009,54,2024-03-02,456.72,3.4,1209
+47,100,Sony PS5 Game,Gaming,Sony,Refurbished,21239,149,2025-01-14,335.78,5.0,2647
+48,19,Loreal Face Serum,Beauty,Loreal,Used,2500,123,2024-09-27,247.88,2.6,2351
+49,110,Nike T-Shirt,Fashion,Nike,New,5254,20,2024-07-12,247.24,4.5,2813
+50,89,Adidas Sneakers,Fashion,Adidas,Used,4086,91,2023-08-22,352.29,2.6,2741
+51,77,Puma Sneakers,Fashion,Puma,Used,3666,172,2024-07-13,361.3,3.5,4874
+52,8,Puma T-Shirt,Fashion,Puma,Used,3190,84,2024-11-02,122.92,3.0,3983
+53,28,Sony PS5 Game,Gaming,Sony,Refurbished,4814,101,2026-01-27,110.96,3.0,1356
+54,105,Penguin SQL Mastery,Books,Penguin,New,2387,99,2025-07-06,352.02,3.9,3609
+55,83,HarperCollins SQL Mastery,Books,HarperCollins,Refurbished,413,31,2025-01-16,367.24,3.8,1021
+56,9,Yonex Cricket Bat,Sports,Yonex,Used,7667,18,2026-03-27,222.37,3.4,3163
+57,105,Puma Jacket,Fashion,Puma,Refurbished,3110,40,2025-08-16,389.07,3.7,43
+58,27,Nike Jeans,Fashion,Nike,New,1724,66,2024-10-02,233.12,4.5,3744
+59,2,Nike T-Shirt,Fashion,Nike,Refurbished,4891,95,2023-06-18,150.66,3.5,701
+60,83,Funskool Building Blocks,Toys,Funskool,Used,656,196,2023-11-02,47.47,4.5,2824
+61,37,Nintendo Xbox Controller,Gaming,Nintendo,Refurbished,20567,123,2024-06-15,491.18,3.7,1493
+62,112,Prestige Vacuum Cleaner,Home & Kitchen,Prestige,Used,1605,144,2024-02-08,257.76,2.6,1565
+63,89,Nivia Cricket Bat,Sports,Nivia,Used,2539,52,2025-10-24,268.25,3.7,4253
+64,71,Yonex Badminton Racket,Sports,Yonex,Refurbished,3456,80,2024-06-22,180.99,4.0,3490
+65,81,Ikea Cookware Set,Home & Kitchen,Ikea,Refurbished,1693,196,2023-07-05,352.53,4.9,1169
+66,33,Anker Power Bank,Mobile Accessories,Anker,Refurbished,415,120,2023-10-22,476.46,3.4,629
+67,108,Spigen Charging Cable,Mobile Accessories,Spigen,Refurbished,1674,104,2025-11-18,460.23,2.8,2132
+68,22,Penguin Python Basics,Books,Penguin,Refurbished,907,86,2025-03-12,347.21,4.3,4505
+69,44,Funskool Remote Car,Toys,Funskool,New,2136,65,2024-10-25,403.57,2.6,4538
+70,114,Boat Power Bank,Mobile Accessories,Boat,Used,4071,109,2024-09-05,418.74,2.7,2597
+71,27,Levis T-Shirt,Fashion,Levis,Refurbished,4738,44,2025-03-14,179.9,2.9,1847
+72,116,Lakme Face Serum,Beauty,Lakme,New,4762,133,2025-12-03,334.85,4.0,4756
+73,59,Prestige Vacuum Cleaner,Home & Kitchen,Prestige,Refurbished,6531,58,2025-07-09,392.8,3.5,248
+74,34,Pearson Python Basics,Books,Pearson,Used,2057,111,2023-11-02,262.76,3.0,4969
+75,104,Philips Vacuum Cleaner,Home & Kitchen,Philips,New,7532,73,2024-12-25,246.81,2.9,414
+76,104,Nivia Badminton Racket,Sports,Nivia,Used,9964,83,2025-10-18,268.79,2.7,3221
+77,5,Funskool Building Blocks,Toys,Funskool,New,2640,115,2024-02-26,101.61,3.2,2996
+78,110,Castrol Car Vacuum,Automotive,Castrol,Used,18628,200,2024-06-05,292.93,4.6,973
+79,13,Prestige Cookware Set,Home & Kitchen,Prestige,New,10139,40,2023-07-14,368.25,4.5,4254
+80,110,Penguin Python Basics,Books,Penguin,Refurbished,1425,141,2025-03-14,265.33,3.9,3890
+81,54,Apple Wireless Earbuds,Electronics,Apple,Refurbished,93317,18,2023-05-09,308.42,2.9,3114
+82,93,Ikea Mixer Grinder,Home & Kitchen,Ikea,Refurbished,12477,57,2025-07-22,228.77,4.4,3863
+83,73,Samsung Smart TV,Electronics,Samsung,Refurbished,78516,95,2025-08-20,350.9,4.7,2165
+84,68,Boat Phone Case,Mobile Accessories,Boat,Used,4155,94,2026-04-07,297.82,4.8,2240
+85,77,Yonex Badminton Racket,Sports,Yonex,Used,6154,172,2026-03-13,157.96,3.7,1655
+86,52,Funskool Action Figure,Toys,Funskool,Refurbished,5787,64,2024-03-08,64.15,3.5,3869
+87,15,Adidas Sneakers,Fashion,Adidas,New,1793,171,2024-11-22,304.1,3.8,305
+88,24,Philips Mixer Grinder,Home & Kitchen,Philips,Used,13909,77,2025-03-06,249.0,4.1,4295
+89,5,Penguin Python Basics,Books,Penguin,Refurbished,1253,91,2023-08-23,403.75,3.9,1582
+90,71,Ikea Vacuum Cleaner,Home & Kitchen,Ikea,New,9442,6,2026-03-03,159.96,3.1,2187
+91,104,Maybelline Perfume,Beauty,Maybelline,Used,3195,45,2024-09-30,226.49,3.8,2547
+92,105,Puma Jeans,Fashion,Puma,Refurbished,2309,175,2025-12-30,419.78,4.4,4880
+93,71,Levis Jeans,Fashion,Levis,Refurbished,5121,118,2024-09-05,93.47,3.0,4777
+94,67,Penguin Python Basics,Books,Penguin,Refurbished,436,10,2026-03-02,222.14,4.5,1785
+95,93,Spigen Phone Case,Mobile Accessories,Spigen,New,2501,39,2023-11-16,392.28,4.9,3443
+96,116,Maybelline Face Serum,Beauty,Maybelline,Used,4667,140,2024-08-15,98.58,4.9,28
+97,63,Apple Bluetooth Speaker,Electronics,Apple,New,93276,190,2025-07-02,392.13,2.6,3434
+98,92,Spigen Phone Case,Mobile Accessories,Spigen,Used,512,64,2024-08-29,288.29,4.4,462
+99,113,Ikea Cookware Set,Home & Kitchen,Ikea,New,6224,110,2026-03-07,178.23,2.7,4846
+100,93,Ikea Vacuum Cleaner,Home & Kitchen,Ikea,New,9120,81,2025-01-30,213.17,4.4,3879
+101,31,Sony Gaming Mouse,Gaming,Sony,Used,16672,67,2024-09-24,157.3,3.3,647
+102,120,HarperCollins Data Science Guide,Books,HarperCollins,New,970,127,2025-01-21,136.09,4.8,2483
+103,64,Samsung Smart TV,Electronics,Samsung,Used,102186,124,2026-04-24,285.48,3.4,2142
+104,52,Lakme Face Serum,Beauty,Lakme,Refurbished,1914,42,2024-08-08,47.46,3.9,4784
+105,73,Anker Power Bank,Mobile Accessories,Anker,Used,4660,200,2025-09-14,417.93,4.9,4018
+106,114,Penguin Python Basics,Books,Penguin,New,2420,24,2023-11-20,474.79,4.2,52
+107,106,Bosch Helmet,Automotive,Bosch,Refurbished,17071,129,2024-02-29,47.24,3.8,3369
+108,114,Sony Wireless Earbuds,Electronics,Sony,New,75220,66,2025-02-18,128.29,3.8,2903
+109,22,Nivia Cricket Bat,Sports,Nivia,Used,4484,102,2026-03-04,213.5,3.7,77
+110,105,Prestige Cookware Set,Home & Kitchen,Prestige,Used,11566,16,2024-12-15,465.11,4.2,2296
+111,19,Mattel Action Figure,Toys,Mattel,Used,6462,46,2026-03-24,299.42,3.9,3187
+112,54,Funskool Remote Car,Toys,Funskool,New,1100,92,2024-02-01,318.38,4.0,4879
+113,40,Castrol Car Vacuum,Automotive,Castrol,Refurbished,12159,154,2025-12-18,343.91,2.7,2419
+114,22,Nintendo PS5 Game,Gaming,Nintendo,New,13951,83,2025-10-07,244.58,4.4,837
+115,119,Prestige Mixer Grinder,Home & Kitchen,Prestige,New,10125,157,2024-08-16,315.1,3.3,3155
+116,35,Apple Bluetooth Speaker,Electronics,Apple,New,55829,73,2025-01-26,178.52,3.7,518
+117,101,Philips Cookware Set,Home & Kitchen,Philips,New,8933,39,2025-09-04,180.14,4.9,2721
+118,106,Boat Power Bank,Mobile Accessories,Boat,Used,1795,50,2023-05-07,483.7,4.9,2387
+119,40,Pearson Data Science Guide,Books,Pearson,Refurbished,1018,145,2024-08-21,52.38,4.3,1717
+120,97,HarperCollins Python Basics,Books,HarperCollins,Used,1234,23,2024-07-25,246.57,4.0,4769
+121,79,Michelin Helmet,Automotive,Michelin,New,19958,170,2024-03-28,321.83,3.9,3273
+122,90,Maybelline Lipstick,Beauty,Maybelline,Used,4499,178,2025-03-04,310.75,3.8,2825
+123,113,Dell Laptop,Electronics,Dell,Used,43722,94,2025-10-23,259.03,3.6,3706
+124,119,Loreal Face Serum,Beauty,Loreal,New,1145,89,2025-12-04,297.53,4.9,1899
+125,89,Michelin Car Vacuum,Automotive,Michelin,New,6965,185,2026-02-17,138.81,3.2,512
+126,89,Spigen Charging Cable,Mobile Accessories,Spigen,Refurbished,2717,105,2024-09-18,310.02,3.4,3750
+127,26,Spigen Charging Cable,Mobile Accessories,Spigen,New,2651,100,2025-04-28,358.98,3.8,3426
+128,64,Spigen Charging Cable,Mobile Accessories,Spigen,New,4161,52,2025-03-23,184.71,3.6,439
+129,95,Loreal Face Serum,Beauty,Loreal,Refurbished,4390,118,2025-03-23,264.8,2.7,252
+130,26,Microsoft PS5 Game,Gaming,Microsoft,Refurbished,10959,34,2026-03-21,163.23,3.9,3005
+131,77,Lego Action Figure,Toys,Lego,New,3984,117,2024-04-02,438.03,2.8,1941
+132,48,Nintendo Xbox Controller,Gaming,Nintendo,New,21497,150,2025-07-09,201.38,3.2,4413
+133,63,Philips Vacuum Cleaner,Home & Kitchen,Philips,Refurbished,10383,37,2025-05-11,362.66,2.8,1198
+134,22,Loreal Perfume,Beauty,Loreal,Used,2451,136,2024-01-25,384.91,4.2,3023
+135,97,HarperCollins SQL Mastery,Books,HarperCollins,New,2389,131,2026-02-23,163.53,4.6,2766
+136,8,Mattel Building Blocks,Toys,Mattel,New,5429,45,2023-09-15,242.99,2.5,3504
+137,14,Nintendo PS5 Game,Gaming,Nintendo,Used,10479,165,2024-07-20,180.53,4.2,1918
+138,5,Michelin Car Vacuum,Automotive,Michelin,New,4848,183,2025-07-15,198.04,2.8,3459
+139,31,Philips Mixer Grinder,Home & Kitchen,Philips,Refurbished,2463,178,2026-03-03,105.71,3.8,69
+140,22,Anker Phone Case,Mobile Accessories,Anker,New,1929,40,2026-01-14,386.12,4.0,3145
+141,9,Maybelline Face Serum,Beauty,Maybelline,Refurbished,940,82,2025-12-23,134.51,4.0,1545
+142,81,Castrol Helmet,Automotive,Castrol,Used,16870,38,2024-10-08,217.95,4.6,3447
+143,15,Lakme Perfume,Beauty,Lakme,Used,803,134,2023-09-29,171.78,4.3,3403
+144,112,Michelin Engine Oil,Automotive,Michelin,New,9592,44,2024-05-05,286.74,3.5,541
+145,67,Puma Football,Sports,Puma,Refurbished,1912,194,2026-03-17,342.7,2.9,103
+146,27,Ikea Mixer Grinder,Home & Kitchen,Ikea,New,6680,90,2024-08-31,411.27,3.2,523
+147,35,Puma Badminton Racket,Sports,Puma,Used,8868,45,2024-04-19,157.35,2.8,4701
+148,119,Adidas Sneakers,Fashion,Adidas,Refurbished,600,194,2024-03-11,341.62,3.1,2033
+149,13,Michelin Engine Oil,Automotive,Michelin,Used,2225,22,2023-12-21,443.42,4.7,2545
+150,108,Loreal Perfume,Beauty,Loreal,New,4868,192,2023-06-13,454.2,4.4,2008
+151,67,Prestige Cookware Set,Home & Kitchen,Prestige,New,9872,57,2023-07-17,283.71,3.1,4030
+152,110,Samsung Wireless Earbuds,Electronics,Samsung,New,17193,168,2024-05-21,417.18,2.7,4651
+153,19,Dell Smart TV,Electronics,Dell,New,36034,39,2025-05-14,398.77,4.0,1273
+154,59,Adidas T-Shirt,Fashion,Adidas,New,3072,28,2025-12-11,112.5,4.2,4942
+155,59,Samsung Wireless Earbuds,Electronics,Samsung,New,24441,12,2023-08-28,477.96,4.6,4554
+156,92,Lego Building Blocks,Toys,Lego,Used,1370,180,2025-04-13,329.94,4.1,4770
+157,104,Boat Phone Case,Mobile Accessories,Boat,New,499,48,2025-02-08,465.1,3.6,3235
+158,11,Penguin SQL Mastery,Books,Penguin,Refurbished,1346,163,2026-01-09,323.81,4.1,4086
+159,8,Michelin Engine Oil,Automotive,Michelin,Used,7035,187,2025-10-17,205.19,3.9,3970
+160,15,Lakme Perfume,Beauty,Lakme,Used,2862,140,2024-03-04,204.42,4.0,1906

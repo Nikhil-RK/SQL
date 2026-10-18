@@ -1,0 +1,121 @@
+user_id,first_name,last_name,email,gender,city,state,country,signup_date,user_type,account_status,total_orders,loyalty_tier
+1,Margaret,Johnson,margaret.johnson1@gmail.com,Other,Mumbai,Maharashtra,India,2023-07-08,buyer,active,2,Bronze
+2,Danielle,Taylor,danielle.taylor2@gmail.com,Other,Mumbai,Maharashtra,India,2022-10-13,both,inactive,7,Bronze
+3,Megan,Mcclain,megan.mcclain3@gmail.com,Female,Bangalore,Karnataka,India,2022-09-19,buyer,active,3,Silver
+4,Kevin,Johnson,kevin.johnson4@gmail.com,Male,Jaipur,Rajasthan,India,2022-09-29,buyer,active,1,Silver
+5,Daniel,Wagner,daniel.wagner5@gmail.com,Male,Ahmedabad,Gujarat,India,2022-06-17,seller,active,0,Bronze
+6,Justin,Baldwin,justin.baldwin6@gmail.com,Male,Kolkata,West Bengal,India,2025-04-30,buyer,active,5,Platinum
+7,Kimberly,Robinson,kimberly.robinson7@gmail.com,Female,Mumbai,Maharashtra,India,2024-11-07,buyer,active,2,Gold
+8,Diana,Booth,diana.booth8@gmail.com,Other,Chennai,Tamil Nadu,India,2025-07-28,both,active,5,Silver
+9,Renee,Wolfe,renee.wolfe9@gmail.com,Female,Mumbai,Maharashtra,India,2023-10-17,seller,inactive,0,Silver
+10,Diana,Lewis,diana.lewis10@gmail.com,Female,Lucknow,Uttar Pradesh,India,2025-08-05,buyer,active,2,Silver
+11,Gabrielle,Davis,gabrielle.davis11@gmail.com,Female,Mumbai,Maharashtra,India,2022-10-04,both,inactive,0,Bronze
+12,Heather,Cooper,heather.cooper12@gmail.com,Female,Pune,Maharashtra,India,2023-06-21,buyer,active,4,Silver
+13,Renee,Blair,renee.blair13@gmail.com,Other,Mumbai,Maharashtra,India,2024-08-17,both,active,5,Silver
+14,Calvin,Nielsen,calvin.nielsen14@gmail.com,Male,Ahmedabad,Gujarat,India,2022-09-06,seller,suspended,0,Silver
+15,Kristen,Calderon,kristen.calderon15@gmail.com,Other,Hyderabad,Telangana,India,2024-12-22,both,inactive,1,Gold
+16,Stephen,Ward,stephen.ward16@gmail.com,Male,Bangalore,Karnataka,India,2023-03-01,both,active,4,Bronze
+17,Michele,Williams,michele.williams17@gmail.com,Other,Pune,Maharashtra,India,2023-04-26,buyer,active,5,Gold
+18,Patricia,Galloway,patricia.galloway18@gmail.com,Other,Ahmedabad,Gujarat,India,2025-12-25,buyer,active,1,Silver
+19,Crystal,Garcia,crystal.garcia19@gmail.com,Other,Chennai,Tamil Nadu,India,2023-07-12,both,active,4,Silver
+20,Jody,Flowers,jody.flowers20@gmail.com,Female,Hyderabad,Telangana,India,2023-01-14,both,active,5,Silver
+21,Jacob,Clark,jacob.clark21@gmail.com,Male,Mumbai,Maharashtra,India,2023-06-25,buyer,active,2,Silver
+22,Mia,Sutton,mia.sutton22@gmail.com,Other,Mumbai,Maharashtra,India,2022-08-25,seller,active,0,Silver
+23,Lisa,Jackson,lisa.jackson23@gmail.com,Female,Jaipur,Rajasthan,India,2025-06-12,both,active,1,Silver
+24,Danielle,Ford,danielle.ford24@gmail.com,Other,Jaipur,Rajasthan,India,2023-06-30,both,active,2,Bronze
+25,Wanda,Bowman,wanda.bowman25@gmail.com,Female,Kolkata,West Bengal,India,2024-09-18,buyer,active,3,Silver
+26,Colleen,Nguyen,colleen.nguyen26@gmail.com,Other,Chennai,Tamil Nadu,India,2025-08-12,both,active,2,Silver
+27,Ricardo,Perez,ricardo.perez27@gmail.com,Male,Chennai,Tamil Nadu,India,2022-06-25,both,active,5,Bronze
+28,Renee,Morales,renee.morales28@gmail.com,Female,Delhi,Delhi,India,2022-08-17,seller,active,0,Silver
+29,Daniel,Hahn,daniel.hahn29@gmail.com,Male,Lucknow,Uttar Pradesh,India,2026-01-27,buyer,active,1,Gold
+30,Michelle,Lewis,michelle.lewis30@gmail.com,Female,Hyderabad,Telangana,India,2024-06-20,buyer,inactive,2,Platinum
+31,James,Rocha,james.rocha31@gmail.com,Male,Ahmedabad,Gujarat,India,2024-04-18,both,suspended,3,Silver
+32,Charles,Taylor,charles.taylor32@gmail.com,Male,Delhi,Delhi,India,2025-07-07,both,inactive,2,Bronze
+33,Kristina,Baker,kristina.baker33@gmail.com,Other,Lucknow,Uttar Pradesh,India,2024-10-31,seller,active,0,Silver
+34,Jessica,Silva,jessica.silva34@gmail.com,Other,Hyderabad,Telangana,India,2023-11-20,both,active,1,Silver
+35,Colleen,Bright,colleen.bright35@gmail.com,Female,Ahmedabad,Gujarat,India,2024-07-06,both,active,5,Bronze
+36,Johnny,Campos,johnny.campos36@gmail.com,Male,Pune,Maharashtra,India,2026-01-03,buyer,active,2,Silver
+37,Brian,Burton,brian.burton37@gmail.com,Male,Mumbai,Maharashtra,India,2025-09-18,both,active,1,Bronze
+38,Michael,Carlson,michael.carlson38@gmail.com,Male,Pune,Maharashtra,India,2023-12-25,buyer,active,0,Silver
+39,James,Ferrell,james.ferrell39@gmail.com,Male,Jaipur,Rajasthan,India,2024-08-05,buyer,inactive,3,Silver
+40,Darlene,Tran,darlene.tran40@gmail.com,Female,Hyderabad,Telangana,India,2022-05-24,both,active,3,Bronze
+41,Michael,Wilson,michael.wilson41@gmail.com,Male,Kolkata,West Bengal,India,2026-02-09,seller,active,0,Gold
+42,Joshua,Adams,joshua.adams42@gmail.com,Male,Mumbai,Maharashtra,India,2025-01-26,buyer,active,3,Gold
+43,Gerald,Carter,gerald.carter43@gmail.com,Male,Hyderabad,Telangana,India,2023-01-07,buyer,active,1,Bronze
+44,Jesse,Mckay,jesse.mckay44@gmail.com,Male,Chennai,Tamil Nadu,India,2026-01-26,seller,inactive,0,Bronze
+45,Michelle,Stanton,michelle.stanton45@gmail.com,Other,Mumbai,Maharashtra,India,2025-08-02,buyer,suspended,4,Gold
+46,Christopher,Gaines,christopher.gaines46@gmail.com,Male,Hyderabad,Telangana,India,2026-01-18,buyer,active,7,Bronze
+47,Lori,Skinner,lori.skinner47@gmail.com,Female,Bangalore,Karnataka,India,2024-07-03,buyer,active,3,Bronze
+48,Lisa,Hernandez,lisa.hernandez48@gmail.com,Female,Chennai,Tamil Nadu,India,2025-08-03,seller,suspended,0,Platinum
+49,Candice,Ashley,candice.ashley49@gmail.com,Other,Ahmedabad,Gujarat,India,2024-08-07,buyer,active,2,Platinum
+50,Tamara,George,tamara.george50@gmail.com,Other,Jaipur,Rajasthan,India,2024-06-04,buyer,active,6,Bronze
+51,Alicia,Hickman,alicia.hickman51@gmail.com,Female,Jaipur,Rajasthan,India,2026-01-31,both,active,4,Bronze
+52,Victoria,Roman,victoria.roman52@gmail.com,Other,Mumbai,Maharashtra,India,2023-05-13,both,active,0,Bronze
+53,Anthony,Humphrey,anthony.humphrey53@gmail.com,Male,Kolkata,West Bengal,India,2022-09-06,buyer,inactive,2,Bronze
+54,Angelica,Tucker,angelica.tucker54@gmail.com,Other,Bangalore,Karnataka,India,2022-08-22,both,active,4,Silver
+55,Vanessa,Patel,vanessa.patel55@gmail.com,Other,Pune,Maharashtra,India,2022-11-18,both,active,5,Silver
+56,Carl,Alvarez,carl.alvarez56@gmail.com,Male,Chennai,Tamil Nadu,India,2024-09-07,seller,active,0,Bronze
+57,Carmen,Rose,carmen.rose57@gmail.com,Female,Mumbai,Maharashtra,India,2024-12-04,buyer,active,4,Silver
+58,Jay,Lewis,jay.lewis58@gmail.com,Male,Mumbai,Maharashtra,India,2024-08-21,seller,active,0,Bronze
+59,Nicole,Vaughn,nicole.vaughn59@gmail.com,Female,Mumbai,Maharashtra,India,2025-05-18,both,active,2,Bronze
+60,Emily,Carney,emily.carney60@gmail.com,Other,Chennai,Tamil Nadu,India,2025-02-09,both,suspended,2,Silver
+61,James,Lam,james.lam61@gmail.com,Male,Jaipur,Rajasthan,India,2024-04-07,buyer,active,2,Platinum
+62,Bryan,Walker,bryan.walker62@gmail.com,Male,Chennai,Tamil Nadu,India,2023-10-14,buyer,active,3,Silver
+63,Alisha,Spencer,alisha.spencer63@gmail.com,Female,Chennai,Tamil Nadu,India,2024-11-06,both,active,5,Bronze
+64,Connie,Jones,connie.jones64@gmail.com,Other,Chennai,Tamil Nadu,India,2025-01-11,seller,active,0,Gold
+65,Anthony,Jones,anthony.jones65@gmail.com,Male,Mumbai,Maharashtra,India,2022-06-24,both,inactive,1,Bronze
+66,Shannon,Jones,shannon.jones66@gmail.com,Female,Delhi,Delhi,India,2023-05-11,both,active,1,Silver
+67,Diana,Washington,diana.washington67@gmail.com,Other,Kolkata,West Bengal,India,2024-08-21,seller,active,0,Platinum
+68,Brandi,Walls,brandi.walls68@gmail.com,Other,Delhi,Delhi,India,2024-10-10,seller,inactive,0,Silver
+69,Kenneth,Sanchez,kenneth.sanchez69@gmail.com,Male,Kolkata,West Bengal,India,2024-05-10,buyer,active,2,Gold
+70,Robert,Lee,robert.lee70@gmail.com,Male,Pune,Maharashtra,India,2022-10-04,buyer,active,2,Bronze
+71,Mary,Gomez,mary.gomez71@gmail.com,Other,Kolkata,West Bengal,India,2024-02-04,both,active,2,Gold
+72,John,Daniel,john.daniel72@gmail.com,Male,Delhi,Delhi,India,2025-03-18,both,active,5,Gold
+73,Matthew,Lucas,matthew.lucas73@gmail.com,Male,Delhi,Delhi,India,2022-08-09,both,active,2,Platinum
+74,Jennifer,Morgan,jennifer.morgan74@gmail.com,Other,Hyderabad,Telangana,India,2026-01-04,buyer,active,1,Bronze
+75,Brian,Lee,brian.lee75@gmail.com,Male,Ahmedabad,Gujarat,India,2024-08-17,buyer,active,1,Silver
+76,Joan,Henderson,joan.henderson76@gmail.com,Female,Hyderabad,Telangana,India,2023-07-13,buyer,active,5,Bronze
+77,Julie,Baxter,julie.baxter77@gmail.com,Female,Mumbai,Maharashtra,India,2022-09-01,both,active,5,Silver
+78,Jessica,Callahan,jessica.callahan78@gmail.com,Female,Jaipur,Rajasthan,India,2024-09-07,buyer,active,2,Gold
+79,Annette,Pearson,annette.pearson79@gmail.com,Female,Delhi,Delhi,India,2024-08-23,seller,suspended,0,Bronze
+80,Sara,Novak,sara.novak80@gmail.com,Other,Kolkata,West Bengal,India,2025-07-20,buyer,active,4,Bronze
+81,Sarah,Martin,sarah.martin81@gmail.com,Other,Mumbai,Maharashtra,India,2024-05-30,seller,active,0,Bronze
+82,Karen,Hancock,karen.hancock82@gmail.com,Other,Kolkata,West Bengal,India,2026-03-08,buyer,inactive,5,Silver
+83,Amy,Gray,amy.gray83@gmail.com,Other,Hyderabad,Telangana,India,2024-01-03,seller,active,0,Silver
+84,Deborah,Bowers,deborah.bowers84@gmail.com,Female,Lucknow,Uttar Pradesh,India,2024-04-12,buyer,inactive,2,Silver
+85,Dominique,Horton,dominique.horton85@gmail.com,Female,Jaipur,Rajasthan,India,2025-06-14,buyer,active,1,Bronze
+86,Whitney,Peters,whitney.peters86@gmail.com,Female,Jaipur,Rajasthan,India,2025-05-27,buyer,active,2,Platinum
+87,Katelyn,Lee,katelyn.lee87@gmail.com,Other,Delhi,Delhi,India,2023-04-10,both,active,4,Silver
+88,Wayne,Riley,wayne.riley88@gmail.com,Male,Chennai,Tamil Nadu,India,2024-08-26,buyer,active,4,Silver
+89,Amy,Edwards,amy.edwards89@gmail.com,Other,Pune,Maharashtra,India,2022-07-23,seller,active,0,Bronze
+90,Lauren,Shaw,lauren.shaw90@gmail.com,Female,Delhi,Delhi,India,2025-12-21,both,active,2,Silver
+91,Kim,Brown,kim.brown91@gmail.com,Other,Pune,Maharashtra,India,2024-07-03,buyer,suspended,2,Bronze
+92,Angela,Lopez,angela.lopez92@gmail.com,Female,Hyderabad,Telangana,India,2024-11-16,both,active,5,Bronze
+93,Andrea,Hensley,andrea.hensley93@gmail.com,Female,Lucknow,Uttar Pradesh,India,2024-01-24,both,active,4,Bronze
+94,Barbara,Zamora,barbara.zamora94@gmail.com,Other,Lucknow,Uttar Pradesh,India,2023-05-24,buyer,active,2,Silver
+95,Kent,Williams,kent.williams95@gmail.com,Male,Delhi,Delhi,India,2022-09-11,both,active,1,Gold
+96,Jason,Silva,jason.silva96@gmail.com,Male,Kolkata,West Bengal,India,2024-07-27,buyer,active,2,Silver
+97,Emily,Green,emily.green97@gmail.com,Female,Bangalore,Karnataka,India,2025-03-12,seller,inactive,0,Bronze
+98,Mike,Allen,mike.allen98@gmail.com,Male,Ahmedabad,Gujarat,India,2024-01-11,both,suspended,2,Silver
+99,Bonnie,Brewer,bonnie.brewer99@gmail.com,Female,Lucknow,Uttar Pradesh,India,2024-04-16,both,inactive,1,Bronze
+100,Emily,Walton,emily.walton100@gmail.com,Other,Ahmedabad,Gujarat,India,2022-08-27,both,active,2,Silver
+101,Alexandra,Howell,alexandra.howell101@gmail.com,Female,Hyderabad,Telangana,India,2024-09-27,both,active,2,Gold
+102,Whitney,Jones,whitney.jones102@gmail.com,Female,Hyderabad,Telangana,India,2023-04-03,buyer,active,0,Bronze
+103,Katie,Anderson,katie.anderson103@gmail.com,Female,Pune,Maharashtra,India,2023-10-31,buyer,active,3,Bronze
+104,Stanley,Suarez,stanley.suarez104@gmail.com,Male,Kolkata,West Bengal,India,2023-12-02,both,active,4,Bronze
+105,Dominique,Kim,dominique.kim105@gmail.com,Female,Pune,Maharashtra,India,2024-08-27,seller,active,0,Bronze
+106,Michele,Carr,michele.carr106@gmail.com,Female,Kolkata,West Bengal,India,2025-10-11,both,active,3,Silver
+107,Martha,Smith,martha.smith107@gmail.com,Other,Kolkata,West Bengal,India,2025-10-27,seller,inactive,0,Bronze
+108,Kristen,Huynh,kristen.huynh108@gmail.com,Female,Kolkata,West Bengal,India,2022-10-14,seller,active,0,Gold
+109,Todd,Taylor,todd.taylor109@gmail.com,Male,Ahmedabad,Gujarat,India,2022-11-02,buyer,active,1,Bronze
+110,Stacy,Newton,stacy.newton110@gmail.com,Female,Kolkata,West Bengal,India,2023-01-03,both,inactive,4,Gold
+111,Denise,Jacobs,denise.jacobs111@gmail.com,Other,Jaipur,Rajasthan,India,2025-05-25,buyer,active,0,Silver
+112,Grant,Watts,grant.watts112@gmail.com,Male,Mumbai,Maharashtra,India,2025-12-21,both,active,4,Silver
+113,Dennis,Freeman,dennis.freeman113@gmail.com,Male,Chennai,Tamil Nadu,India,2026-03-13,seller,active,0,Bronze
+114,Susan,Williams,susan.williams114@gmail.com,Female,Chennai,Tamil Nadu,India,2025-01-16,both,inactive,3,Bronze
+115,Jeff,Hill,jeff.hill115@gmail.com,Male,Ahmedabad,Gujarat,India,2022-05-12,buyer,active,1,Platinum
+116,Felicia,Anderson,felicia.anderson116@gmail.com,Female,Hyderabad,Telangana,India,2023-06-17,both,active,2,Silver
+117,Christopher,Ramos,christopher.ramos117@gmail.com,Male,Hyderabad,Telangana,India,2025-05-07,buyer,active,3,Bronze
+118,Jeffrey,Smith,jeffrey.smith118@gmail.com,Male,Ahmedabad,Gujarat,India,2022-08-31,both,active,1,Bronze
+119,Theresa,Vazquez,theresa.vazquez119@gmail.com,Other,Chennai,Tamil Nadu,India,2022-12-24,both,active,1,Silver
+120,Kimberly,Davenport,kimberly.davenport120@gmail.com,Other,Mumbai,Maharashtra,India,2024-10-27,both,active,1,Bronze
